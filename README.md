@@ -5,7 +5,7 @@
 This is a random quotes generator web application. It was built to understand the useState Hook in Reactjs. Users get to click the "Generate Quote" button and random motivational quotes appear, also with a toggle between 2 images.
 
 
-## Design Inspiration but with a little twitch 🤭
+## App Interface 🤭
 ![random quotes generator](quotes.png) 
 
 
