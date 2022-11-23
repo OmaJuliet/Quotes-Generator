@@ -6,7 +6,7 @@ This is a random quotes generator web application. It was built to understand th
 
 
 ## App Interface 
-![random quotes generator](quotes.png) 
+![random quotes generator](quote.png) 
 
 
 ## Technologies 
